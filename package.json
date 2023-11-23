@@ -1,0 +1,20 @@
+{
+  "name": "cdr-app",
+  "type": "module",
+  "version": "1.0.1",
+  "description": "A CLI To BootStrap a Component Driven Redux App",
+  "main": "src/index.js",
+  "repository": "https://github.com/TahsinAyman/create-cdr-app.git",
+  "bin": {
+    "cdr": "./src/index.js"
+  },
+  "scripts": {},
+  "author": "TahsinAyman",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "fs-extra": "^11.1.1",
+    "ora": "^7.0.1",
+    "simple-git": "^3.21.0"
+  }
+}
