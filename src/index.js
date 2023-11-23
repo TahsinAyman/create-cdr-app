@@ -36,6 +36,9 @@ program
               spinner.fail(`Error Creating Project: ${err}`);
             } else {
               spinner.succeed(`Successfully Created Project`);
+              console.log("cd " + name);
+              console.log("npm install");
+              console.log("npm run dev")
             }
           });
         }
@@ -44,7 +47,7 @@ program
   });
 
 program
-  .command("generate <project-name>")
+  .command("generate <module-name>")
   .alias("g")
   .description("Create a Module For The Project")
   .action(async (name) => {
