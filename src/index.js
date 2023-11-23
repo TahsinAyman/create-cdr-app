@@ -25,7 +25,7 @@ program
     await new Promise((resolve) => setTimeout(resolve, 2000));
     const git = simpleGit();
     git.clone(
-      "https://github.com/TahsinAyman/cdr-template",
+      repo,
       name,
       async (err) => {
         if (err) {
