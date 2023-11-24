@@ -15,7 +15,7 @@ Options:
 
 Commands:
   new [options] <project-name>  Create a Project
-  generate|g <project-name>     Create a Module For The Project
+  generate|g <module-name>     Create a Module For The Project
   help [command]                display help for command
 ```
 
@@ -35,3 +35,5 @@ The Main Packages those were used is:
 - `typescript`
 
 This is a prereleased version the main Version is in devlopment. currently there are lots of lacking like _`Testing`_, _`Automation`_ and etc. but the core components are complete
+
+## [Documentation](https://docs.fullstackbd.com/cdr/v1.0.0/getting-started.html)
