@@ -5,6 +5,7 @@
   "description": "A CLI To BootStrap a Component Driven Redux App",
   "main": "src/index.js",
   "repository": "https://github.com/TahsinAyman/create-cdr-app.git",
+  "homepage": "https://docs.fullstackbd.com/cdr/v1.0.0/getting-started.html",
   "bin": {
     "cdr": "./src/index.js"
   },
