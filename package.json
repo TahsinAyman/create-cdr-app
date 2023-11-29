@@ -1,14 +1,21 @@
 {
   "name": "create-cdr-app",
   "type": "module",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "A CLI To BootStrap a Component Driven Redux App",
   "main": "src/index.js",
   "repository": "https://github.com/TahsinAyman/create-cdr-app.git",
   "bin": {
     "cdr": "./src/index.js"
   },
-  "keywords": ["cdr", "react", "redux", "component-driven", "component-driven-redux", "component-driven-react"],
+  "keywords": [
+    "cdr",
+    "react",
+    "redux",
+    "component-driven",
+    "component-driven-redux",
+    "component-driven-react"
+  ],
   "scripts": {},
   "author": "TahsinAyman",
   "license": "MIT",
