@@ -8,6 +8,7 @@
   "bin": {
     "cdr": "./src/index.js"
   },
+  "keywords": ["cdr", "react", "redux", "component-driven", "component-driven-redux", "component-driven-react"],
   "scripts": {},
   "author": "TahsinAyman",
   "license": "MIT",
