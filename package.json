@@ -1,7 +1,7 @@
 {
   "name": "create-cdr-app",
   "type": "module",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A CLI To BootStrap a Component Driven Redux App",
   "main": "src/index.js",
   "repository": "https://github.com/TahsinAyman/create-cdr-app.git",
